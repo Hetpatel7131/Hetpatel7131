@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">Het Patel is a passionate DevOps Engineer, AWS Certified Solutions Architect, HashiCorp Terraform Associate (003) Certified, and Azure Fundamentals Certified. Enthusiastic about Cloud, CI/CD, Kubernetes, Docker, and Shell Scripting. Open to work and freelance projects in the DevOps domain.</h3>
 
-- 🌱 I’m currently learning **Shell Scripting**, **Python**, **Terraform**, and **Linux/Ubuntu**
+- 🌱 I’m currently learning **Shell Scripting**
 
 - 💬 Ask me about **DevOps, Cloud, AWS**
 
