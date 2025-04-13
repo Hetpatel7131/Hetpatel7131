@@ -70,6 +70,9 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" title="GitLab" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -78,7 +81,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="center"></h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mik
