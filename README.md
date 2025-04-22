@@ -15,7 +15,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@hetpatel7131" target="blank">
-    <img align="center" src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" alt="Medium" title="Medium" height="30" width="40" />
+    <img align="center" src="[https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMedium_logo_Monogram.svg&psig=AOvVaw1YUm8wnpYaS2eG-JPXtgON&ust=1745434697787000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjy5Y2p7IwDFQAAAAAdAAAAABAE)" alt="Medium" title="Medium" height="30" width="40" />
   </a>
 </p>
 
