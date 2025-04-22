@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
-<h3 align="center">Het Patel is a passionate DevOps Engineer, AWS Certified Solutions Architect, HashiCorp Terraform Associate (003) Certified, and Azure Fundamentals Certified. Enthusiastic about Cloud, CI/CD, Kubernetes, Docker, and Shell Scripting. Open to work and freelance projects in the DevOps domain.</h3>
+<h3 align="center">
+  Het Patel is a passionate DevOps Engineer, AWS Certified Solutions Architect, HashiCorp Terraform Associate (003) Certified, and Azure Fundamentals Certified. Enthusiastic about Cloud, CI/CD, Kubernetes, Docker, and Shell Scripting. Open to work and freelance projects in the DevOps domain.
+</h3>
 
 - 🌱 I’m currently learning **Shell Scripting**
 
@@ -19,14 +21,24 @@
   </a>
 </p>
 
-<h3 align="left">Cloud Stack:</h3>
-<p align="left"> 
+<h3 align="left">Cloud Platforms:</h3>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="Amazon Web Services (AWS)" width="40" height="40"/>
   </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Microsoft Azure" width="40" height="40"/>
   </a> 
+</p>
+
+<h3 align="left">CI/CD Tools:</h3>
+<p align="left">
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Infrastructure as Code (IaC):</h3>
@@ -59,7 +71,7 @@
   </a>
 </p>
 
-<h3 align="left">Project Management Stack:</h3>
+<h3 align="left">Project Management Tools:</h3>
 <p align="left">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" width="40" height="40"/>
