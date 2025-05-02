@@ -39,6 +39,9 @@
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" width="40" height="40"/>
   </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Infrastructure as Code (IaC):</h3>
